@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Server>
+  <Entry>
+    <Name>IP</Name>
+    <Value>99.228.133.41</Value>
+  </Entry>
+  <Entry>
+    <Name>PORT</Name>
+    <Value>443</Value>
+  </Entry>
+</Server>
