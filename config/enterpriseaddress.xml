@@ -8,4 +8,8 @@
     <Name>PORT</Name>
     <Value>443</Value>
   </Entry>
+  <Entry>
+    <Name>PORT</Name>
+    <Value>80</Value>
+  </Entry>
 </Server>
